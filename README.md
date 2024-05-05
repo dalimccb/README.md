@@ -4,11 +4,10 @@
 <p align="left"> 
    <a href="https://wa.me/01894578601" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" alt="WhatsApp" style="max-width: 100%;">
-<a href="https://nusaiba.com.bd" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Website&logo=web&label=&color=blue&logoColor=white&style=for-the-badge" alt="Visit Website" style="max-width: 100%;">
-</a>
-<img src="https://yourimageurl.com/chrome-logo.png" alt="Chrome Browser" style="height: 30px; vertical-align: middle;">
 
+<a href="https://wa.me/01894578601" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=chrome&label=&color=25D366&logoColor=white&style=for-the-badge" alt="WhatsApp on Chrome" style="max-width: 100%;">
+</a>
 
    <a href="cybarcraft@nusaiba.com.bd" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Email&logo=mail.ru&label=&color=007BFF&logoColor=white&style=for-the-badge" alt="Email" style="max-width: 100%;">
