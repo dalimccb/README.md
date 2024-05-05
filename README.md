@@ -8,7 +8,6 @@
 </a>
   <a href="https://nusaiba.com.bd" target="_blank">
     <img align="left" src="https://nusaiba.com.bd/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.d73d8d45.png&w=256&q=75" alt="Visit Our Website" height="30" width="40" />
-    Visit Our Website
 </a>
   <a href="https://wa.me/1234567890" target="blank"><img align="center" src="https://www.svgrepo.com//show/81119/whatsapp.svg" alt="cybercraftbangladesh" height="30" width="40" /></a>
 </p>
