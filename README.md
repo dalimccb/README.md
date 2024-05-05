@@ -14,12 +14,11 @@
 <a href="https://nusaiba.com.bd" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Visit%20Website&logo=web&label=&color=blue&logoColor=white&style=for-the-badge" alt="Visit Website" style="max-width: 100%;">
 </a>
-<a href="https://nusaiba.com.bd" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: inline-flex; align-items: center; color: white; font-weight: bold;">
+<a href="https://nusaiba.com.bd" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: inline-flex; align-items: center;">
     <img src="https://nusaiba.com.bd/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.d73d8d45.png&w=256&q=75" alt="Nusaiba Logo" style="height: 30px; width: 30px; margin-right: 10px;">
-    <span style="background: blue; padding: 5px 10px; border-radius: 5px; display: inline-block;">
-        Visit Website
-    </span>
+    <img src="https://img.shields.io/static/v1?message=Visit%20Website&logo=web&label=&color=blue&logoColor=white&style=for-the-badge" alt="Visit Website" style="max-width: 100%;">
 </a>
+
 
 </p>
 <h3 align="left">Languages and Tools:</h3>
