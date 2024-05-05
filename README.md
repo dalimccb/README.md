@@ -8,8 +8,9 @@
     <img src="https://img.shields.io/static/v1?message=Chat%20on%20WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" alt="Chat on WhatsApp" style="max-width: 100%;">
 </a>
 <a href="mailto:example@example.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Email%20Me&logo=mail.ru&label=&color=blue&logoColor=white&style=for-the-badge" alt="Email Me" style="max-width: 100%;">
+    <img src="https://img.shields.io/static/v1?message=Email%20Me&logo=mail.ru&label=&color=007BFF&logoColor=white&style=for-the-badge" alt="Email Me" style="max-width: 100%;">
 </a>
+
 <a href="https://nusaiba.com.bd" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Visit%20Website&logo=web&label=&color=blue&logoColor=white&style=for-the-badge" alt="Visit Website" style="max-width: 100%;">
 </a>
