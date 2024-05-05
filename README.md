@@ -5,7 +5,7 @@
 <a href="https://linkedin.com/in/md-shoaib-akhter-shifat-95752a1ba" rel="nofollow">
    <img src="https://camo.githubusercontent.com/9bb5b6ac3a10a3a5663f32bbfcf0bf3af82d5c9fc538fde926c5a5d748b7a886/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6d6573736167653d4c696e6b6564696e266c6f676f3d6c696e6b6564696e266c6162656c3d26636f6c6f723d303037374235266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d267374796c653d666f722d7468652d6261646765" height="30" alt="linkedin logo" data-canonical-src="https://img.shields.io/static/v1?message=Linkedin&amp;logo=linkedin&amp;label=&amp;color=0077B5&amp;logoColor=white&amp;labelColor=&amp;style=for-the-badge" style="max-width: 100%;">
 <a href="https://wa.me/1234567890" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Chat%20on%20WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" alt="WhatsApp" style="max-width: 100%;">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" alt="WhatsApp" style="max-width: 100%;">
 </a>
 <a href="mailto:example@example.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Email&logo=mail.ru&label=&color=007BFF&logoColor=white&style=for-the-badge" alt="Email" style="max-width: 100%;">
