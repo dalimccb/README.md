@@ -5,8 +5,8 @@
    <a href="https://wa.me/01894578601" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" alt="WhatsApp" style="max-width: 100%;">
 
-<a href="https://wa.me/01894578601" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Chat%20on%20WhatsApp&logo=googlechrome&label=&color=25D366&logoColor=white&style=for-the-badge" alt="Chat on WhatsApp via Chrome" style="max-width: 100%;">
+<a href="https://nusaiba.com.bd/cybercraft" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Website&logo=googlechrome&label=&color=25D366&logoColor=white&style=for-the-badge" style="max-width: 100%;">
 </a>
 
 
