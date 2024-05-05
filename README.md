@@ -3,7 +3,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
  <a href="https://stackoverflow.com/users/15989016/md-shoaib-akhter-shifat" rel="nofollow">
-     <img src="https://camo.githubusercontent.com/27304ac2b067007986768190c77ebec604654ed1f65d6550f8e8d64d0e47837b/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6d6573736167653d537461636b6f766572666c6f77266c6f676f3d737461636b6f766572666c6f77266c6162656c3d26636f6c6f723d464537413136266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d267374796c653d666f722d7468652d6261646765" height="30" alt="stackoverflow logo" data-canonical-src="https://img.shields.io/static/v1?message=WebSite&amp;logo=Website&amp;label=&amp;color=FE7A16&amp;logoColor=white&amp;labelColor=&amp;style=for-the-badge" style="max-width: 100%;">
+     <img src="https://camo.githubusercontent.com/27304ac2b067007986768190c77ebec604654ed1f65d6550f8e8d64d0e47837b/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6d6573736167653d537461636b6f766572666c6f77266c6f676f3d737461636b6f766572666c6f77266c6162656c3d26636f6c6f723d464537413136266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d267374796c653d666f722d7468652d6261646765" height="30" alt="stackoverflow logo" data-canonical-src="https://img.shields.io/static/v1?message=WebSite&amp;logo=Website&amp;label=website&amp;color=FE7A16&amp;logoColor=white&amp;labelColor=&amp;style=for-the-badge" style="max-width: 100%;">
 </a> 
 </p>
 <h3 align="left">Languages and Tools:</h3>
