@@ -7,8 +7,8 @@
 <a href="https://nusaiba.com.bd" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Website&logo=web&label=&color=blue&logoColor=white&style=for-the-badge" alt="Visit Website" style="max-width: 100%;">
 </a>
-<!-- Adding a Chrome browser logo next to the website badge -->
-<img src="https://yourimageurl.com/chrome-logo.png" alt="Chrome Browser" height="30">
+<img src="https://yourimageurl.com/chrome-logo.png" alt="Chrome Browser" style="height: 30px; vertical-align: middle;">
+
 
    <a href="cybarcraft@nusaiba.com.bd" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Email&logo=mail.ru&label=&color=007BFF&logoColor=white&style=for-the-badge" alt="Email" style="max-width: 100%;">
