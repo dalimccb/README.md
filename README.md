@@ -12,7 +12,7 @@
 </a>
 
 <a href="https://nusaiba.com.bd" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Visit%20Website&logo=web&label=&color=blue&logoColor=white&style=for-the-badge" alt="Visit Website" style="max-width: 100%;">
+    <img src="https://img.shields.io/static/v1?message=Website&logo=web&label=&color=blue&logoColor=white&style=for-the-badge" alt="Visit Website" style="max-width: 100%;">
 </a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
