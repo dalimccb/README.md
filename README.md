@@ -6,6 +6,9 @@
   <a href="mailto:example@example.com">
     <img align="center" src="https://imaginethatcreative.net/blog/wp-content/uploads/2023/06/2250206.png" alt="Send Email" height="30" width="40" />
 </a>
+  <a href="https://linkedin.com/in/md-shoaib-akhter-shifat-95752a1ba" rel="nofollow">
+   <img src="https://camo.githubusercontent.com/9bb5b6ac3a10a3a5663f32bbfcf0bf3af82d5c9fc538fde926c5a5d748b7a886/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6d6573736167653d4c696e6b6564696e266c6f676f3d6c696e6b6564696e266c6162656c3d26636f6c6f723d303037374235266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d267374796c653d666f722d7468652d6261646765" height="30" alt="linkedin logo" data-canonical-src="https://img.shields.io/static/v1?message=Linkedin&amp;logo=linkedin&amp;label=&amp;color=0077B5&amp;logoColor=white&amp;labelColor=&amp;style=for-the-badge" style="max-width: 100%;">
+</a>
   <a href="https://nusaiba.com.bd" target="_blank">
     <img align="left" src="https://nusaiba.com.bd/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.d73d8d45.png&w=256&q=75" alt="Visit Our Website" height="30" width="40" />
 </a>
