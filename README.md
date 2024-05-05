@@ -2,7 +2,7 @@
 <h3 align="center">CyberCraft Bangladesh - The new Era of software and review industry</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
- <a href="https://nusaiba.com.bd" rel="nofollow" style="backgroundColor:blue">
+ <a href="https://nusaiba.com.bd" rel="nofollow" style="background-color:blue;">
      <img src="https://nusaiba.com.bd/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.d73d8d45.png&w=256&q=75" height="30" alt="website" data-canonical-src="https://img.shields.io/static/v1?message=WebSite&amp;logo=Website&amp;label=website&amp;color=FE7A16&amp;logoColor=white&amp;labelColor=&amp;style=for-the-badge" style="max-width: 100%;">
 </a> 
 </p>
